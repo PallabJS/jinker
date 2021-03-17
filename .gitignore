@@ -1,9 +1,11 @@
-.vscode
-__pycache__
+.vscode/
 jinter_config.json
 
-build
-dist
-.git
+build/
+dist/
+.git/
 .gitignore
 *.spec
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
