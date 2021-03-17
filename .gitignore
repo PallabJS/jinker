@@ -1,4 +1,9 @@
 .vscode
-
-/__pycache__
+__pycache__
 jinter_config.json
+
+build
+dist
+.git
+.gitignore
+*.spec
